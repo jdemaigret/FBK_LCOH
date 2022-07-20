@@ -1,0 +1,4 @@
+PV	1.6007438139802876e6
+Onshore	40217.911953310715
+Hybrid PV	0.0
+Hybrid Onshore	0.0
